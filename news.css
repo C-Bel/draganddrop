@@ -1,0 +1,13 @@
+.boite {
+	border:black thin solid;
+	float:left;
+	height:128px;
+	margin:10px;
+	padding:5px;
+	width:256px
+}
+
+img.deplacable {
+	height:2em;
+	width:2em
+}

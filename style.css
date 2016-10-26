@@ -1,0 +1,92 @@
+#div1{
+  width: 100px;
+  height: 35px;
+  margin: 10px;
+  border: solid 1px black;
+  padding: 10px;
+
+}
+
+#div2{
+  border: solid 1px black;
+  width: 100px;
+  height: 35px;
+  margin: 10px;
+  padding: 10px;
+
+}
+
+#div3{
+  border: solid 1px black;
+  width: 100px;
+  height: 35px;
+  margin: 10px;
+  padding: 10px;
+
+}
+
+#div4{
+  border: solid 1px black;
+  width: 100px;
+  height: 35px;
+  margin: 10px;
+  padding: 10px;
+}
+
+#div5{
+  border: solid 1px black;
+  width: 100px;
+  height: 35px;
+  margin: 10px;
+  padding: 10px;
+}
+
+#div6{
+  border: solid 1px black;
+  width: 100px;
+  height: 35px;
+  margin: 10px;
+  padding: 10px;
+}
+
+#div7{
+  border: solid 1px black;
+  width: 100px;
+  height: 35px;
+  margin: 10px;
+  padding: 10px;
+}
+
+#div8{
+  border: solid 1px black;
+  width: 100px;
+  height: 35px;
+  margin: 10px;
+  padding: 10px;
+}
+
+#div9{
+  border: solid 1px black;
+  width: 100px;
+  height: 35px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.flexcontainer{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+
+h2{
+  display: flex;
+  justify-content: center;
+}
+
+.flex{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  justify-content: space-between;
+}
